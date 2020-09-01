@@ -1,0 +1,104 @@
+h1 {
+    color:red;
+    border : solid;
+}
+
+/*{border : solid}*/
+
+.header{background-color: pink;}
+
+.text{
+    background-color: lightblue;
+    color: blue;
+    border : solid;
+}
+
+.game1 {
+    background-color: lightgreen;
+    color: green;
+    display : flex;
+    justify-content: space-between;
+    border : solid;
+}
+
+.game2 {
+    background-color: lightgreen;
+    color: green;
+    display : flex;
+    justify-content: space-between;
+    border : solid;
+}
+
+.game3 {
+    background-color: lightgreen;
+    color: green;
+    display : flex;
+    justify-content: space-between;
+    border : solid;
+}
+
+.game4 {
+    background-color: lightgreen;
+    color: green;
+    display : flex;
+    justify-content: space-between;
+    border : solid;
+}
+
+.game4 p{
+    opacity: 0;
+}
+
+.game4:hover p{
+    opacity: 1;
+}
+
+.text1 {
+    background-color: lightgreen;
+    color: green;
+    display : flex;
+    justify-content: space-between;
+}
+
+.text2 {
+    background-color: lightgreen;
+    color: green;
+    display : flex;
+    justify-content: space-between;
+}
+
+.text3 {
+    background-color: lightgreen;
+    color: green;
+    display : flex;
+    justify-content: space-between;
+}
+
+.text4 {
+    background-color: lightgreen;
+    color: green;
+    display : flex;
+    justify-content: space-between;
+}
+
+body {
+    background-color: #808080;
+    padding: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color:red;
+}
+
+.aboutme{
+    padding-left: 800px;
+}
+
+.project{
+    margin-left: 800px;
+}
